@@ -6,3 +6,7 @@
 **Evaluation**: Submissions are evaluated using Accuracy Score.
 
 <ins>**Final result**</ins>: Accuracy of ***0.80197*** obtained in test data using ***Tensorflow's Neural Networks***.
+
+To see the notebook open the following file:
+
+    src > Mental Health.ipynb
